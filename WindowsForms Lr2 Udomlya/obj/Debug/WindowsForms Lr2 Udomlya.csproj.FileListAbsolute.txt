@@ -1,0 +1,32 @@
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\obj\Debug\WindowsForms Lr2 Udomlya.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\obj\Debug\WindowsForms Lr2 Udomlya.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\obj\Debug\WindowsForms_Lr2_Udomlya.Menu.resources
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\obj\Debug\WindowsForms_Lr2_Udomlya.Primer.resources
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\obj\Debug\WindowsForms_Lr2_Udomlya.Properties.Resources.resources
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\obj\Debug\WindowsForms Lr2 Udomlya.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\obj\Debug\WindowsForms Lr2 Udomlya.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\bin\Debug\WindowsForms Lr2 Udomlya.exe.config
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\bin\Debug\WindowsForms Lr2 Udomlya.exe
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\bin\Debug\WindowsForms Lr2 Udomlya.pdb
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\obj\Debug\WindowsForms Lr2 Udomlya.exe
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\obj\Debug\WindowsForms Lr2 Udomlya.pdb
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\obj\Debug\WindowsForms_Lr2_Udomlya.Zadanie1.resources
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\obj\Debug\WindowsForms_Lr2_Udomlya.Zadanie2.resources
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\obj\Debug\WindowsForms_Lr2_Udomlya.Zadanie3.resources
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\obj\Debug\WindowsForms_Lr2_Udomlya.Zadanie4.resources
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\obj\Debug\WindowsForms_Lr2_Udomlya.Zadanie5.resources
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\obj\Debug\WindowsForms_Lr2_Udomlya.Zd1.resources
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\obj\Debug\WindowsForms_Lr2_Udomlya.Zd2.resources
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\obj\Debug\WindowsForms_Lr2_Udomlya.Zd3.resources
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\obj\Debug\WindowsForms_Lr2_Udomlya.Zd4.resources
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\obj\Debug\WindowsForms_Lr2_Udomlya.Zd5.resources
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\obj\Debug\WindowsForms_Lr2_Udomlya.Lr4Zd1.resources
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\obj\Debug\WindowsForms_Lr2_Udomlya.Lr4Zd2.resources
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\obj\Debug\WindowsForms_Lr2_Udomlya.Lr4Zd3.resources
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\obj\Debug\WindowsForms_Lr2_Udomlya.Lr4Zd4.resources
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\obj\Debug\WindowsForms_Lr2_Udomlya.Lr4Zd5.resources
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\obj\Debug\WindowsForms_Lr2_Udomlya.Lr5Zd1.resources
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\obj\Debug\WindowsForms_Lr2_Udomlya.Lr5Zd2.resources
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\obj\Debug\WindowsForms_Lr2_Udomlya.Lr5Zd3.resources
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\obj\Debug\WindowsForms_Lr2_Udomlya.Lr5Zd4.resources
+C:\Users\User\source\repos\WindowsForms Lr2 Udomlya\obj\Debug\WindowsForms_Lr2_Udomlya.Lr5Zd5.resources
